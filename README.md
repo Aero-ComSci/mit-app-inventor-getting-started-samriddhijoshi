@@ -2,11 +2,13 @@
 
 In this repository you will be turning in your cookie clicker sim created on MIT app inventor
 
-## What to include
+## Design View
+![image](https://github.com/user-attachments/assets/ae644470-905e-4621-b206-f38b7078a11f)
 
-1. Your source file, this can be obtained by clicking on Projects / Export selected project to my computer![image](https://github.com/user-attachments/assets/f99cff16-16e3-4e1e-afc7-9da69f0e47f4) __place on files__ Use the file upload
-2. Image of your design view, __place on read me__ via screenshot then copy paste
-3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
-4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
+## Code View
+![image](https://github.com/user-attachments/assets/45e80d58-6755-418d-91b4-a71829b9d76e)
+
+## Reflection
+I really loved this project a lot because I could really be creative and show my interests in a different way then I do usally, and I made the cookie clicker inspired by my favorite album, called " Brat " , by the singer Charli XCX. Sothing that was a bit difficult to do was inputing a personalized sound effect, which was a short audio from a song on the album, which I eventually figured out how to code.
 
 
